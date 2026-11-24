@@ -1,1 +1,10 @@
 downloads_*/
+*.part
+*.ytdl
+*.log
+cookies*.txt
+.downloaded.txt
+.page.html
+.candidate_urls.txt
+__pycache__/
+.run.*/
